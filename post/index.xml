@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on 杰西卡的博客</title>
     <link>https://zhangxinping165.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on 杰西卡的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Tue, 24 Sep 2019 14:20:29 +0800</lastBuildDate>
     
 	<atom:link href="https://zhangxinping165.github.io/post/index.xml" rel="self" type="application/rss+xml" />
